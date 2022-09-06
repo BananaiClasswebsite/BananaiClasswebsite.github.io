@@ -1,3 +1,3 @@
 # BananaiClasswebsite.github.io
 This is the official website of BananaiClass
-Hihihi
+P.S. There is nothing here
